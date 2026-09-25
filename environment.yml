@@ -1,0 +1,7 @@
+name: beerlanet
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyter
+prefix: C:\Users\Maria\miniconda3\envs\beerlanet
